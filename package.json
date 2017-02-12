@@ -1,0 +1,11 @@
+{
+  "name": "ITAOTServer",
+  "version": "0.0.1",
+  "description": "Socket.IO Server for ITAOT app",
+  "dependencies": {
+    "express": "^4.10.2",
+    "lodash": "^4.13.1",
+    "moment": "^2.13.0",
+    "socket.io": "^1.4.4"
+  }
+}
